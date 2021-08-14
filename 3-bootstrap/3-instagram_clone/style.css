@@ -1,0 +1,22 @@
+.nav-height {
+    height: 54px;
+    background-color: white;
+}
+
+.icon-left {
+    margin-left: 192px;
+}
+
+.input-div {
+    width: 75%;
+    height: 20px;
+}
+
+.search-left {
+    margin-left: 50px;
+}
+
+body {
+    padding: 75px;
+}
+
